@@ -1,0 +1,20 @@
+a{
+    text-decoration: none;
+    padding: 12px;
+    background-color: gray;
+    text-align: center;
+    align-content: center;
+    display: inline-block;  
+    width: 10%;
+}
+
+nav{
+    background-color: hotpink;
+    display: inline-block;
+    text-align: center;
+    width: 70%;
+}
+
+div{
+    width: 20%;
+}
